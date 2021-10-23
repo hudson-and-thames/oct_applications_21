@@ -1,0 +1,5 @@
+matplotlib==3.2.2
+numpy==1.20.1
+pandas==1.2.4
+pykalman==0.9.5
+statsmodels==0.12.2
